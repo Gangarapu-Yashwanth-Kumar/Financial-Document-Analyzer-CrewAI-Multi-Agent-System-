@@ -139,6 +139,7 @@ Structured JSON output
 **.env.example (Very Important)**  
 Create:  
 OPENAI_API_KEY=
+
 SERPER_API_KEY=
 
 Never upload real keys.
